@@ -1,3 +1,4 @@
+[![.github/workflows/main.yml](https://github.com/JunHangWu-git/python-for-devops/actions/workflows/main.yml/badge.svg)](https://github.com/JunHangWu-git/python-for-devops/actions/workflows/main.yml)
 # python-for-devops
 
 ## Create a project scaffold
